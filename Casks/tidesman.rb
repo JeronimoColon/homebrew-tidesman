@@ -5,7 +5,7 @@ cask "tidesman" do
   url "https://github.com/JeronimoColon/tidesman-mcp/releases/download/v#{version}/tidesman-#{version}-macos-arm64.zip",
       verified: "github.com/JeronimoColon/tidesman-mcp/"
   name "Tidesman"
-  desc "Native MCP server for running, understanding, and debugging Linux containers with Apple's container tool"
+  desc "Free native MCP server for running, understanding, and debugging Linux containers with Apple's container tool"
   homepage "https://tidesman.dev"
 
   depends_on macos: :tahoe
