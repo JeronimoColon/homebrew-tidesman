@@ -1,6 +1,6 @@
 cask "tidesman" do
-  version "0.1.1"
-  sha256 "c55f571fcd2bb09ca0d2ee43ff48ac89b9656c792d3e8809fee0224c5c1a7ac1"
+  version "0.1.2"
+  sha256 "2752adea637cf18b315b6984134ca0c0ba3d4c49be7a18e11a01163e87c71051"
 
   url "https://github.com/JeronimoColon/tidesman-mcp/releases/download/v#{version}/tidesman-#{version}-macos-arm64.zip",
       verified: "github.com/JeronimoColon/tidesman-mcp/"
